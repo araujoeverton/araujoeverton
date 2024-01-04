@@ -14,7 +14,7 @@
 
 - ⚡ Certificão AZ-900 **Oneye 😜**
 
-- 👨‍💻 Mais ein [evertonaraujo.pro](https://evertonaraujo.pro)
+- 👨‍💻 Mais em [evertonaraujo.pro](https://evertonaraujo.pro)
 
 <!--
 
