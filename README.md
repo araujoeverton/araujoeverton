@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araujoeverton&color=blue" alt="Profile views" /> </p>
 
 [![Portfolio](https://evertonaraujo.pro/wp-content/uploads/2024/01/portfolio.svg)](https://evertonaraujo.pro) 
-[![Curriculum](https://github.com/araujoeverton/araujoeverton/blob/c092edd4b5ebdd1bfaaf81ac2c35c09f8995ab71/assets/Everton%20Araujo%20da%20Cruz%20-%20Engenheiro%20de%20dados%20Azure.pdf)](
+[![Curriculum](https://evertonaraujo.pro/wp-content/uploads/2024/01/curriculum.svg)](
 https://github.com/araujoeverton/araujoeverton/blob/c092edd4b5ebdd1bfaaf81ac2c35c09f8995ab71/assets/Everton%20Araujo%20da%20Cruz%20-%20Engenheiro%20de%20dados%20Azure.pdf)
 
 - 💾 Comprometido em trazer melhores soluções de dados, em aprender e disceminar conhecimento.
