@@ -13,9 +13,8 @@ https://evertonaraujo.pro/wp-content/uploads/2024/02/Everton-Araujo-da-Cruz-Enge
 
 - 💬 Pergunte-me sobre **SQL, Python, Spark, Azure**
 
-- ⚡ Certificão AZ-900 **Oneye 😜**
+- ⚡ Certificão AZ-900
 
-- 👨‍💻 Mais em [evertonaraujo.pro](https://evertonaraujo.pro)
 
 <!--
 
