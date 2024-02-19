@@ -3,7 +3,6 @@
 <h1 align="left">Everton Araujo | Engenheiro de Dados</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araujoeverton&color=blue" alt="Profile views" /> </p>
 
-[![Portfolio](https://evertonaraujo.pro/wp-content/uploads/2024/01/portfolio.svg)](https://evertonaraujo.pro) 
 [![Curriculum](https://evertonaraujo.pro/wp-content/uploads/2024/01/curriculum.svg)](
 https://evertonaraujo.pro/wp-content/uploads/2024/02/Everton-Araujo-da-Cruz-Engenheiro-de-dados-Azure.pdf)
 
