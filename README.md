@@ -1,6 +1,7 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/araujoeverton/c202b83ab325da19e7e875bcff08bffc/raw/7c10587bb7cb93041cfda19fa970f60710ad9af3/githubcard.svg"/>
-<h1 align="left">Everton Araujo | Engenheiro de Dados</h1>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/araujoeverton/c202b83ab325da19e7e875bcff08bffc/raw/652cbeb39b0af0429f2c9e6174a584b9cd6698cc/githubcard.svg"/>
+
+### Everton Araujo | Engenheiro de Dados
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araujoeverton&color=blue" alt="Profile views" /> </p>
 
 [![Curriculum](https://evertonaraujo.pro/wp-content/uploads/2024/01/curriculum.svg)](
