@@ -13,7 +13,8 @@ https://evertonaraujo.pro/wp-content/uploads/2024/02/Everton-Araujo-da-Cruz-Enge
 
 - 💬 Pergunte-me sobre **SQL, Python, Spark, Azure**
 
-- ⚡ Certificão AZ-900
+- ⚡ Certificão Azure Fundamentals ( AZ-900 )
+- ⚡ Estudando para AWS Data Engineer Associate ( DEA-C01 )
 
 
 <!--
@@ -30,7 +31,7 @@ https://evertonaraujo.pro/wp-content/uploads/2024/02/Everton-Araujo-da-Cruz-Enge
 
 <br><br>
 
-## Contato
+### Contato
 
 <p align="left" style="background:yellow">
 
