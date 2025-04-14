@@ -4,8 +4,16 @@
 ### Everton Araujo | Engenheiro de Dados
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araujoeverton&color=blue" alt="Profile views" /> </p>
 
-[![Curriculum](https://evertonaraujo.pro/wp-content/uploads/2024/01/curriculum.svg)](
-https://evertonaraujo.pro/wp-content/uploads/2024/02/Everton-Araujo-da-Cruz-Engenheiro-de-dados-Azure.pdf)
+<table>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      <a href="https://raw.githubusercontent.com/araujoeverton/CV/779cbebedf8430ff6d293274c9b9c1bde1b7f1ca/Everton%20Araujo%20da%20Cruz%20-%20Engenheiro%20de%20Dados%20Junior.pdf">
+        <img src="https://raw.githubusercontent.com/araujoeverton/CV/refs/heads/main/icons8-download-resume-48.png" width="24" height="24">
+        &nbsp;Download do Currículum
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 💾 Comprometido em trazer melhores soluções de dados, em aprender e disceminar conhecimento.
 
